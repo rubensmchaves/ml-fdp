@@ -8,7 +8,7 @@ When a enterprise is identified in a financial distress situation we label it as
 
 | Column       | Description                                                                                       |
 |--------------|---------------------------------------------------------------------------------------------------|
-| ID           | Sequential value for difFerent enterprises |
+| ID           | Sequential value for different enterprises |
 | QUARTER      | The last day of the quarter *e.g.* '2011-03-31', '2011-06-30', '2011-09-30' and '2011-12-31' for the first, second, third and fourth quarters, respectively.|
 | A1           | Total assets |
 | A2           | Current assets |
