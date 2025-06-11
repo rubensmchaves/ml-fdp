@@ -1,4 +1,4 @@
-# Dataset for Financial Distress Prediction in an Imbalanced Data Stream Environment
+# Nonstationary and Imbalanced Dataset for Financial Distress Prediction
 
 Financial distress identification is crucial for companies, investors, and authorities. This dataset provides real-world indicators of Brazilian enterprises based on data from the Brazilian Securities and Exchange Commission (CVM), organized quarterly in a non-stationary manner. The dataset covers 10 years (2011 to 2020) and includes 905 different corporations and 23,834 records, each described with 84 indicators. The majority of the enterprises show no financial difficulties, while only 651 experienced financial distress. The data is strongly unbalanced: 2.73\% are data of companies in financial distress situation, while 97.27\% are not.
 
